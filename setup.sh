@@ -2,7 +2,7 @@
 
 clear
 echo
-echo "please wait for some time..."
+echo "Have Patience. Installing python..."
 echo
 pkg install python -y
 clear

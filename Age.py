@@ -1,4 +1,9 @@
+import os
+def cls():
+    os.system('cls' if os.name=='nt' else 'clear')
+cls()
 import datetime
+cls()
 print("××××× Welcome to 'Your exact age calculator' ×××××\n")
 print("Follow the instructions to get your age!\n")
 #Inputs

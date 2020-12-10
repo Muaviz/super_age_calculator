@@ -30,7 +30,7 @@ and 6 seconds old!`
 
 > • copy & paste this:
 
->  `git clone `
+>  `git clone https://github.com/Muaviz/super_age_calculator.git`
 
 > • Type:
 
